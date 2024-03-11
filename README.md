@@ -15,7 +15,7 @@ Ce dossier contient les trois projets pour la validation du bloc 3 de la certifi
 Concepteur - Développeur en Science des Données   
 Bloc 3 : Analyse prédictive de données structurées par l'intelligence artificielle
 
-Theme evaluation : 
+Thème de l'evaluation : 
 
 - Optimisation des processus marketing de qualification de prospect par le biais d'algorithmes d'apprentissage supervisés.
 
